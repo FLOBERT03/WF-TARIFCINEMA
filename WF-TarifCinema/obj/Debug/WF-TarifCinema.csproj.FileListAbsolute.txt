@@ -1,0 +1,10 @@
+H:\2024\0-SIO1\BC12-D-SIO1\Applications C#\WF-TarifCinema\WF-TarifCinema\bin\Debug\WF-TarifCinema.exe.config
+H:\2024\0-SIO1\BC12-D-SIO1\Applications C#\WF-TarifCinema\WF-TarifCinema\bin\Debug\WF-TarifCinema.exe
+H:\2024\0-SIO1\BC12-D-SIO1\Applications C#\WF-TarifCinema\WF-TarifCinema\bin\Debug\WF-TarifCinema.pdb
+H:\2024\0-SIO1\BC12-D-SIO1\Applications C#\WF-TarifCinema\WF-TarifCinema\obj\Debug\WF-TarifCinema.csproj.AssemblyReference.cache
+H:\2024\0-SIO1\BC12-D-SIO1\Applications C#\WF-TarifCinema\WF-TarifCinema\obj\Debug\WF_TarifCinema.Form1.resources
+H:\2024\0-SIO1\BC12-D-SIO1\Applications C#\WF-TarifCinema\WF-TarifCinema\obj\Debug\WF_TarifCinema.Properties.Resources.resources
+H:\2024\0-SIO1\BC12-D-SIO1\Applications C#\WF-TarifCinema\WF-TarifCinema\obj\Debug\WF-TarifCinema.csproj.GenerateResource.cache
+H:\2024\0-SIO1\BC12-D-SIO1\Applications C#\WF-TarifCinema\WF-TarifCinema\obj\Debug\WF-TarifCinema.csproj.CoreCompileInputs.cache
+H:\2024\0-SIO1\BC12-D-SIO1\Applications C#\WF-TarifCinema\WF-TarifCinema\obj\Debug\WF-TarifCinema.exe
+H:\2024\0-SIO1\BC12-D-SIO1\Applications C#\WF-TarifCinema\WF-TarifCinema\obj\Debug\WF-TarifCinema.pdb
